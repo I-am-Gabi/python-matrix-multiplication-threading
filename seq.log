@@ -1,0 +1,39 @@
+INFO:root: ----- SEQ ----- 
+INFO:root: ----- SEQ ----- 
+INFO:root: ----- SEQ ----- 
+INFO:root:A média de execução é de: 4.8e-06s na matriz de ordem 4
+INFO:root:Maior tempo de execução foi: 9.6e-05s
+INFO:root:Menor tempo de execução foi: 9.6e-05s
+INFO:root:O desvio padrão é de: 9.12e-05s
+INFO:root:A média de execução é de: 2.825e-05s na matriz de ordem 8
+INFO:root:Maior tempo de execução foi: 0.000469s
+INFO:root:Menor tempo de execução foi: 0.000469s
+INFO:root:O desvio padrão é de: 4.79064844254e-05s
+INFO:root:A média de execução é de: 0.0001871s na matriz de ordem 16
+INFO:root:Maior tempo de execução foi: 0.003177s
+INFO:root:Menor tempo de execução foi: 0.003177s
+INFO:root:O desvio padrão é de: 5.25966095232e-05s
+INFO:root:A média de execução é de: 0.00095185s na matriz de ordem 32
+INFO:root:Maior tempo de execução foi: 0.015295s
+INFO:root:Menor tempo de execução foi: 0.015295s
+INFO:root:O desvio padrão é de: 0.000427925s
+INFO:root:A média de execução é de: 0.0070268s na matriz de ordem 64
+INFO:root:Maior tempo de execução foi: 0.121499s
+INFO:root:Menor tempo de execução foi: 0.121499s
+INFO:root:O desvio padrão é de: 0.00309954798769s
+INFO:root:A média de execução é de: 0.0511435s na matriz de ordem 128
+INFO:root:Maior tempo de execução foi: 0.882334s
+INFO:root:Menor tempo de execução foi: 0.882334s
+INFO:root:O desvio padrão é de: 0.0208400546075s
+INFO:root:A média de execução é de: 0.4037227s na matriz de ordem 256
+INFO:root:Maior tempo de execução foi: 7.051584s
+INFO:root:Menor tempo de execução foi: 7.051584s
+INFO:root:O desvio padrão é de: 0.152556552958s
+INFO:root:A média de execução é de: 3.3154373s na matriz de ordem 512
+INFO:root:Maior tempo de execução foi: 58.234292s
+INFO:root:Menor tempo de execução foi: 58.234292s
+INFO:root:O desvio padrão é de: 1.17215015759s
+INFO:root:A média de execução é de: 27.9931845s na matriz de ordem 1024
+INFO:root:Maior tempo de execução foi: 493.554944s
+INFO:root:Menor tempo de execução foi: 493.554944s
+INFO:root:O desvio padrão é de: 9.3310295s
